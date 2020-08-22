@@ -1,4 +1,4 @@
-#### Hi there, iqbal's is here 👋
+#### Hi there, [iqbal's](https://twitter.com/balbaal_) is here 👋
 
 <!--
 **balbaal/balbaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
