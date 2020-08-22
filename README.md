@@ -16,6 +16,8 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#249](https://github.com//mathdroid/covid-19-api/pull/249) in [mathdroid/covid-19-api](https://github.com//mathdroid/covid-19-api)
+<!--END_SECTION:activity-->
 
 **Languages and Tools:**  
 
