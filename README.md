@@ -1,5 +1,12 @@
 ### Hi there, [iqbal's](https://balbaal.github.io/) is here 👋
 
+<a href="https://twitter.com/balbaal_">
+  <img align="left" alt="iqbal Syafri | Twitter" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_twitter.svg" />
+</a>
+<a href="https://balbaal.github.io/">
+  <img align="left" alt="iqbal Syafri | Personal Site" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_firefox.svg" />
+</a>
+
 <!--
 **balbaal/balbaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
