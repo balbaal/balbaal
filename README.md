@@ -16,7 +16,7 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](https://github.com//icebob/fastest-validator/pull/187) in [icebob/fastest-validator](https://github.com//icebob/fastest-validator)
+1. 💪 Opened PR [#187](https://github.com/icebob/fastest-validator/pull/187) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
 <!--END_SECTION:activity-->
 
 **Languages and Tools:**  
