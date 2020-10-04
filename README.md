@@ -16,7 +16,7 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#568](https://github.com/BustByte/coronastatus/pull/568) in [BustByte/coronastatus](https://github.com/BustByte/coronastatus)
+1. 💪 Opened PR [#438](https://github.com/jenkoian/hacktoberfest-checker/pull/438) in [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 <!--END_SECTION:activity-->
 
 **Languages and Tools:**  
