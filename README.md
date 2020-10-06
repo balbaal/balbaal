@@ -16,7 +16,7 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#438](https://github.com/jenkoian/hacktoberfest-checker/pull/438) in [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
+1. 🎉 Merged PR [#1](https://github.com/balbaal/event-schedule/pull/1) in [balbaal/event-schedule](https://github.com/balbaal/event-schedule)
 <!--END_SECTION:activity-->
 
 **Languages and Tools:**  
