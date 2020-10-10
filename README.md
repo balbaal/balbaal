@@ -16,7 +16,7 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/balbaal/event-schedule/pull/1) in [balbaal/event-schedule](https://github.com/balbaal/event-schedule)
+1. 💪 Opened PR [#1258](https://github.com/vinitshahdeo/inspirational-quotes/pull/1258) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 <!--END_SECTION:activity-->
 
 **Languages and Tools:**  
