@@ -16,7 +16,7 @@
 **Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1258](https://github.com/vinitshahdeo/inspirational-quotes/pull/1258) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+1. ❌ Closed PR [#459](https://github.com/jenkoian/hacktoberfest-checker/pull/459) in [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 <!--END_SECTION:activity-->
 
 **Languages and Tools:**  
