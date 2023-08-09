@@ -3,9 +3,6 @@
 <a href="https://twitter.com/balbaal_">
   <img align="left" alt="iqbal Syafri | Twitter" width="24px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_twitter.svg" />
 </a>
-<a href="https://balbaal.github.io/">
-  <img align="left" alt="iqbal Syafri | Personal Site" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_firefox.svg" />
-</a>
 <a href="https://www.linkedin.com/in/iqbalsyafri/">
   <img align="left" alt="iqbal Syafri | Linkedin" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_linkedin.svg" />
 </a>
