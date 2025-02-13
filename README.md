@@ -1,6 +1,6 @@
 ### Hi there, [iqbal's](https://balbaal.github.io/) is here 👋
 
-<a href="https://twitter.com/balbaal_">
+<a href="https://www.youtube.com/@chickpea729/videos">
   <img align="left" alt="iqbal Syafri | Twitter" width="24px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iqbal-syafri/">
