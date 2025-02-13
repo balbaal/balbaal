@@ -3,7 +3,7 @@
 <a href="https://twitter.com/balbaal_">
   <img align="left" alt="iqbal Syafri | Twitter" width="24px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/iqbalsyafri/">
+<a href="https://www.linkedin.com/in/iqbal-syafri/">
   <img align="left" alt="iqbal Syafri | Linkedin" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_linkedin.svg" />
 </a>
 
