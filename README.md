@@ -1,7 +1,7 @@
 ### Hi there, [iqbal's](https://balbaal.github.io/) is here 👋
 
-<a href="https://www.youtube.com/@chickpea729/videos">
-  <img align="left" alt="iqbal Syafri | Twitter" width="24px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_twitter.svg" />
+<a href="https://www.youtube.com/@hi_piko">
+  <img align="left" alt="iqbal Syafri | Twitter" width="24px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iqbal-syafri/">
   <img align="left" alt="iqbal Syafri | Linkedin" width="21px" src="https://raw.githubusercontent.com/balbaal/balbaal/master/assets/ic_linkedin.svg" />
